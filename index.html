@@ -56,7 +56,7 @@
     // Clear old service worker caches on load
     if ('serviceWorker' in navigator) {
       caches.keys().then(keys => keys.forEach(k => {
-        if (k !== 'dragonlog-v4') caches.delete(k);
+        if (k !== 'dragonlog-v5') caches.delete(k);
       }));
     }
   </script>

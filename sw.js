@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dragonlog-v4';
+const CACHE_NAME = 'dragonlog-v5';
 const ASSETS = [
   './',
   './index.html',
