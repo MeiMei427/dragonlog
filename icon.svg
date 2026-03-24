@@ -4,10 +4,10 @@
   <g transform="translate(36, 56)">
     <!-- Mane/flowing hair behind head -->
     <path d="M 130 200 C 100 175, 75 195, 80 225 C 65 212, 48 232, 58 265 C 42 258, 32 280, 50 308"
-          fill="none" stroke="#22c55e" stroke-width="10" stroke-linecap="round"/>
+          fill="none" stroke="#6C5D9D" stroke-width="10" stroke-linecap="round"/>
 
     <!-- Main head shape -->
-    <path fill="#4ade80" d="
+    <path fill="#7E6DAF" d="
       M 130 215
       C 128 178, 155 152, 192 145
       C 225 139, 265 142, 295 158
@@ -22,7 +22,7 @@
     "/>
 
     <!-- Lower jaw -->
-    <path fill="#22c55e" d="
+    <path fill="#6C5D9D" d="
       M 142 260
       C 170 248, 208 248, 248 250
       C 288 252, 325 252, 348 244
@@ -46,7 +46,7 @@
     "/>
 
     <!-- Antler horns — left -->
-    <path fill="#4ade80" d="
+    <path fill="#7E6DAF" d="
       M 192 145
       C 188 120, 178 90, 165 60
       C 172 68, 178 82, 175 98
@@ -58,7 +58,7 @@
     "/>
 
     <!-- Antler horns — right -->
-    <path fill="#4ade80" d="
+    <path fill="#7E6DAF" d="
       M 240 140
       C 245 112, 255 80, 268 52
       C 262 62, 258 78, 260 95
@@ -71,7 +71,7 @@
 
     <!-- Eye -->
     <circle cx="305" cy="195" r="19" fill="#1a1a2e"/>
-    <ellipse cx="308" cy="193" rx="7" ry="12" fill="#4ade80"/>
+    <ellipse cx="308" cy="193" rx="7" ry="12" fill="#7E6DAF"/>
     <ellipse cx="309" cy="193" rx="3" ry="9" fill="#1a1a2e"/>
 
     <!-- Nostril -->
@@ -79,15 +79,15 @@
 
     <!-- Upper whiskers from snout -->
     <path d="M 375 212 C 398 195, 408 162, 398 130"
-          fill="none" stroke="#4ade80" stroke-width="5" stroke-linecap="round"/>
+          fill="none" stroke="#7E6DAF" stroke-width="5" stroke-linecap="round"/>
     <path d="M 378 220 C 405 208, 418 178, 412 148"
-          fill="none" stroke="#4ade80" stroke-width="3.5" stroke-linecap="round" opacity="0.7"/>
+          fill="none" stroke="#7E6DAF" stroke-width="3.5" stroke-linecap="round" opacity="0.7"/>
 
     <!-- Lower beard whiskers -->
     <path d="M 352 262 C 372 285, 378 318, 368 350"
-          fill="none" stroke="#22c55e" stroke-width="5" stroke-linecap="round"/>
+          fill="none" stroke="#6C5D9D" stroke-width="5" stroke-linecap="round"/>
     <path d="M 340 270 C 358 298, 362 332, 352 362"
-          fill="none" stroke="#22c55e" stroke-width="3.5" stroke-linecap="round" opacity="0.7"/>
+          fill="none" stroke="#6C5D9D" stroke-width="3.5" stroke-linecap="round" opacity="0.7"/>
 
     <!-- Fangs -->
     <path fill="#e8e8e8" d="M 352 232 L 360 220 L 356 240 Z"/>

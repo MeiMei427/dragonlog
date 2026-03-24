@@ -1058,7 +1058,7 @@ function drawWeightChart(entries) {
   }
 
   // Line
-  ctx.strokeStyle = '#4ade80';
+  ctx.strokeStyle = '#7E6DAF';
   ctx.lineWidth = 2;
   ctx.lineJoin = 'round';
   ctx.beginPath();
@@ -1071,7 +1071,7 @@ function drawWeightChart(entries) {
   ctx.stroke();
 
   // Points
-  ctx.fillStyle = '#4ade80';
+  ctx.fillStyle = '#7E6DAF';
   entries.forEach((entry, i) => {
     const x = entries.length === 1 ? pad.left + plotW / 2 : pad.left + (i / (entries.length - 1)) * plotW;
     const y = pad.top + (1 - (entry.weight - minW) / range) * plotH;
